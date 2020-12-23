@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Photos From The World</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_photos">Photos</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="error_empty_username">Username can\'t be empty</string>
+    <string name="error_empty_password">Password can\'t be empty</string>
+    <string name="error_connection_failed">Could not connect to the internet!</string>
+    <string name="error_unexpected">Unexpected error occurred!</string>
+    <string name="retry">Retry</string>
+    <string name="no_result">No Photos Found!</string>
+</resources>
