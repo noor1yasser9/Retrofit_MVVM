@@ -10,3 +10,4 @@ This app uses Retrofit networking library to pull the data from the Web APIs and
 
 # Screenshots
 ![s – 1](https://user-images.githubusercontent.com/41232970/112690817-193aa380-8e85-11eb-90d9-9432e0151f21.png)
+ 
